@@ -1,0 +1,11 @@
+2026-11-15 09:01:10 ERROR Database connection failed 500
+2026-11-15 09:03:30 ERROR Database connection failed 500
+2026-11-15 09:05:50 CRITICAL Disk usage reached 95%
+2026-11-15 09:07:00 ERROR Payment service failed 502
+2026-11-15 09:09:20 ERROR Payment service failed 502
+2026-11-15 09:10:30 CRITICAL Application server is not responding
+2026-11-15 09:14:00 ERROR Authentication service unavailable 503
+2026-11-15 09:16:20 CRITICAL Database server unavailable
+2026-11-15 09:17:30 ERROR Database server unavailable
+2026-11-15 09:19:50 ERROR File permission denied /var/log/app
+2026-11-15 19:00:00 ERROR Rotation test 

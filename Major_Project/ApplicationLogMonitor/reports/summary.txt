@@ -1,0 +1,6 @@
+Application Log Monitoring Summary
+Execution Date: 15-11-26  16-55-01
+New Entries Processed: 0
+ERROR Events: 0
+CRITICAL Events: 0
+Total Alerts: 0
